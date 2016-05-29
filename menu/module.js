@@ -13,7 +13,7 @@ angular.module('menu', [])
 	    url: '/home',
 	    views: {
 	      'menuContent':{
-	        templateUrl: 'modules/myModule/templates/home.html',
+	        templateUrl: 'modules/menu/templates/home.html',
 	      }
 	    }
 	  });
