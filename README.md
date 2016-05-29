@@ -1,7 +1,6 @@
 # Ionic MS Menu Module
 ###### Menu module for [Ionic module structure app](https://github.com/DabitNG/ionic-ms-starter)
 
-
 ### Features
 This is a module for Ionic MS Starter that provides lateral menu to your app
 
