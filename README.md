@@ -1,1 +1,1 @@
-"# ionic-ms-menu" 
+"# ionic-ms-menu-module" 
