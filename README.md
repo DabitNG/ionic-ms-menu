@@ -1,5 +1,5 @@
 # Ionic MS Menu Module
-###### Ionic module structure starter blank sample app
+###### Menu module for Ionic module structure app
 [Project page](http://dabitng.github.io/ionic-ms-starter/)
 
 ### Features
